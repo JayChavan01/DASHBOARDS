@@ -1,3 +1,4 @@
+# DASHBOARDS
 # DASHBOARD_blinkit BASIC
 ### Overview:
 This project analyzes data related to basic IT operations, focusing on key metrics like system performance, user activity, and troubleshooting activities. The analysis is conducted using SQL for data processing, Excel for initial exploration, and Power BI for creating dynamic, interactive visualizations that provide actionable insights for IT teams and decision-makers.
