@@ -1,4 +1,7 @@
 # DASHBOARDS
+
+---
+
 # DASHBOARD_blinkit BASIC
 ### Overview:
 This project analyzes data related to basic IT operations, focusing on key metrics like system performance, user activity, and troubleshooting activities. The analysis is conducted using SQL for data processing, Excel for initial exploration, and Power BI for creating dynamic, interactive visualizations that provide actionable insights for IT teams and decision-makers.
@@ -12,6 +15,7 @@ View Detailed Project: https://shorturl.at/1c8wx
 ## Main Dashboard
 ![Output-2 Main Dashboard](https://github.com/user-attachments/assets/4314f2d9-1659-4dee-9d1a-61a3273abbb0)
 
+---
 
 # Car Sales Analysis
 ### Overview:
@@ -26,8 +30,9 @@ View Detailed Project: https://shorturl.at/OSHLv
 ## Main Dashboard
 ![Output-2  Dashboard](https://github.com/user-attachments/assets/45b9afa1-0871-416d-9ab4-2c215f8672e8)
 
+---
 
- # Mobile Sales Analysis
+# Mobile Sales Analysis
 ### Overview:  
 This project analyzes sales data for mobile phones to derive actionable insights into sales performance, customer behavior, and market trends. By combining the power of SQL, Excel, and Power BI, the dashboard provides a comprehensive view of key metrics and patterns.
 
@@ -46,6 +51,7 @@ View Dashboard: https://shorturl.at/DbqE3
 ## Same Period Last Year Report
 ![S-4 Same Period Last Year report](https://github.com/user-attachments/assets/f88eeb6d-e093-4efc-9880-777c170a4392)
 
+---
 
 # Road Accidents Analysis
 ### Overview:
@@ -60,6 +66,7 @@ View Detailed Project: https://shorturl.at/NilpW
 ## DASHBOARD
 ![S-2](https://github.com/user-attachments/assets/4ed36642-b704-4053-a855-8c938512d7f6)
 
+---
 
 # Super Shop Sales Analysis
 ### Overview:
@@ -74,6 +81,7 @@ View Dashboard: https://shorturl.at/7gmPQ
 ## 15 Days Forecast
 ![Output-2 15-Days Forecast](https://github.com/user-attachments/assets/dc9bf103-f9c8-459d-ac5c-7f51fa40bd13)
 
+---
 
 # Vishwa General Store Sales Dashboard
 ### Overview:  
